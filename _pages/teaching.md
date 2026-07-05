@@ -9,3 +9,6 @@ nav_order: 6
 
 Teaching assistant at Universitat Politecnica de Catalunya.
 {% include courses.liquid %}
+
+<!-- I am happy to supervise bachelor theses for current UPC students ...>
+

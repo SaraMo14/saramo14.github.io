@@ -2,10 +2,10 @@
 layout: course
 title: Artificial Intelligence
 description: This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.
-year: 2025/2026
-term: Fall
+year: 2026
+term: Spring
 language: Spanish (Castellano)
-location: UPC Campus Nord, Room 301
+location: UPC Campus Nord
 time: Mondays and Tuesdays
 course_id: gei-ia
 ---
@@ -36,3 +36,4 @@ This introductory course on machine learning covers fundamental concepts and alg
 - Midterm Exam: 20%
 - Final Project: 30%
 - Participation: 10%
+>
