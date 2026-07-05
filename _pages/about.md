@@ -2,15 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student in Agent Explainability at <a href='https://www.upc.edu/en'>Universitat Politecnica de Catalunya</a> and <a href='https://www.bsc.es/'>Barcelona Supercomputing Center</a>.
+subtitle: PhD Student in Agent Explainability
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
+    <p><a href='https://www.upc.edu/en'>Universitat Politecnica de Catalunya</a> </p>
+    <p><a href='https://www.bsc.es/'>Barcelona Supercomputing Center</a></p>
     <p>Barcelona, Spain</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"

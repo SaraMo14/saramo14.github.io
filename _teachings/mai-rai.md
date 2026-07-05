@@ -1,9 +1,11 @@
 ---
 layout: course
 title: Responsible Artificial Intelligence
-description: ...
+faculty: Master of Artificial Intelligence (MAI)
+#description: ...
 year: 2025
 term: Fall
+language: English
 location: UPC Campus Nord
 course_id: mai-rai
 syllabus: https://www.fib.upc.edu/en/masters/master-artificial-intelligence/curriculum/syllabus/RAI-MAI
